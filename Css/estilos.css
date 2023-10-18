@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    color: black;
+    text-align: center;
+    font-size: 0.6rem;
+   background-color: red;
+}
+h1{
+    font-size: 7rem;
+    background-image: url(../imgs/LOGOMOTO.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+  background-size: contain;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.parrafo1{
+    background-color: aqua;
+    height: 1 rem;
+}
+.parrafo2{
+background-color: blue;
+}
+.parrafo3{
+background-color: aqua;
+}
+.parrafo4{
+background-color: blue;
+}
+.footer{
+    text-align: center;
+    background-color: aqua;
+    font-size: 0.6rem;
+}
